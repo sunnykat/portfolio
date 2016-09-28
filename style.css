@@ -1,0 +1,91 @@
+#wrapper{
+       font-family: museo;
+  padding-top:50px;
+  border:1px solid #e78f08;
+  border-radius:5px;
+}
+
+* {
+    font-family: museo !important;
+}
+body{
+    font-size: 14px;
+}
+img:first-of-type {
+    height:20%;
+    width:30%;
+    display:inline-block;
+  }
+  #wrapper ul{
+    display:inline-block;
+  }
+#wrapper ul li img{
+  width:50px;
+  height:50px;
+}
+
+.navbar{
+	min-height: 20px;
+    margin-bottom: 0px;
+	padding: 0px 15px;
+  background:#f6a828;
+}
+.navbar-brand {
+    font-size: 14px;
+    font-weight: bold;
+    height: 16px;
+    line-height: 14px;
+    padding: 5px 15px;
+}
+.navbar-nav > li > a {
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 14px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+#default p{
+    font-size: 12px;
+    margin-bottom: 0px;
+
+}
+
+#default h1{
+    font-size: 24px;
+
+}
+
+.text-bolder{
+  font-weight:700;
+}
+#portfolio_content h4{
+    font-size: 14px;
+    font-weight: bold;
+}
+#student_description h1 small{
+    font-size: 12px;
+    font-weight: bold;
+}
+#portfolio_content{
+    margin-bottom: 10px
+}
+#portfolio_content h5{
+    margin-bottom: 10px
+}
+#portfolio_content p{
+    font-size: 12px;
+	margin-bottom: 5px
+}
+#portfolio_tab li a{
+    font-weight: bold;
+    padding: 5px 15px;
+}
+#portfolio_tab .nav-tabs > li{
+    margin-bottom: -2px !important;
+}
+#portfolio_body h4{
+    margin: 0px 0px 5px;
+}
+.text-bold{
+    font-weight: bold;
+}
