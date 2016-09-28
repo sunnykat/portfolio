@@ -18,8 +18,8 @@ body{
     background-repeat:round;
 }
 img:first-of-type {
-    height:30%;
-    width:40%;
+    height:10%;
+    width:20%;
     display:inline-block;
     vertical-align: top;
   }
